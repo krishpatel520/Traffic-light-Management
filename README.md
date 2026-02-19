@@ -140,6 +140,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 <img width="957" height="529" alt="Screenshot 2025-08-01 at 11 28 30 AM" src="https://github.com/user-attachments/assets/c0274729-1640-4333-ae12-f962c3a11675" />
 
 
-## License
 
-© vvaria04 2025
